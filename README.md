@@ -21,4 +21,4 @@ Execution steps (on Mac terminal):
   - open -a Xquartz
   - export DISPLAY=:0.0
   - xhost +
-  - docker run -e DISPLAY=<IP addr>:0 her46/cs1660-final-project:latest
+  - docker run -e DISPLAY=(IP addr):0 her46/cs1660-final-project:latest
