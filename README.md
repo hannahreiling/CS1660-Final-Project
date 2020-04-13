@@ -6,7 +6,7 @@ Contents of repository:
 - InvertedIndex.java
 	- Contains the algorithm to construct an Inverted Index; deployed as a JAR on GCP cluster
 
-Video link (containing execution and code walkthrough): *INSERT LINK*
+Video link (containing execution and code walkthrough): https://vimeo.com/406983470
 
 Items completed from "Project Grading Criteria" slide (no extra credit done):
 - First Java Application Implementation and Execution on Docker
